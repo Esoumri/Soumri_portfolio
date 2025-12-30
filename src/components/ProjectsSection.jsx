@@ -5,14 +5,14 @@ const projects = [
         id: 1,
         title: "Smart beehive monitoring system",
         description: "An IoT-based system for monitoring beehive conditions such as temperature, humidity, and bee flow to ensure optimal bee health and productivity.",
-        image: "/projects/project1.png",
+        image: "/projects/wiring.png",
         tags: ["c++", "ESP32 ESP-32S CH9102X", "fritzing", "Arduino IDE", "vs code", "next.js", "Neon", "Vercel", 'Tailwind CSS'],
         demoUrl: "https://beemonitor.vercel.app/",
         githubUrl: "https://github.com/Esoumri/Smart_beehive.git"
 
     },
     {
-        id: 1,
+        id: 2,
         title: "Simple Company Networking",
         description: "Designed a Cisco Packet Tracer branch network using VLANs, subnetting, wireless access, and DHCP to separate departments and enable inter-VLAN connectivity with automatic IPv4 addressing.",
         image: "/projects/project4.png",
