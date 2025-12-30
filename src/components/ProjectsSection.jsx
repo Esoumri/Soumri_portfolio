@@ -8,29 +8,20 @@ const projects = [
         image: "/projects/project1.png",
         tags: ["c++", "ESP32 ESP-32S CH9102X", "fritzing", "Arduino IDE", "vs code", "next.js", "Neon", "Vercel", 'Tailwind CSS'],
         demoUrl: "https://beemonitor.vercel.app/",
-        githubUrl: "https://github.com/Esoumri/bee-monitoring-project.git"
+        githubUrl: "https://github.com/Esoumri/Smart_beehive.git"
 
     },
     {
         id: 1,
-        title: "Smart beehive monitoring system",
-        description: "An IoT-based system for monitoring beehive conditions such as temperature, humidity, and bee flow to ensure optimal bee health and productivity.",
-        image: "/projects/project2.png",
-        tags: ["c++", "ESP32 ESP-32S CH9102X", "fritzing", "Arduino IDE", "vs code", "next.js", "Neon", "Vercel", 'Tailwind CSS'],
-        demoUrl: "https://beemonitor.vercel.app/",
-        githubUrl: "https://github.com/Esoumri/bee-monitoring-project.git"
+        title: "Simple Company Networking",
+        description: "Designed a Cisco Packet Tracer branch network using VLANs, subnetting, wireless access, and DHCP to separate departments and enable inter-VLAN connectivity with automatic IPv4 addressing.",
+        image: "/projects/project4.png",
+        tags: ["Cisco Packet Tracer", "Networking", "VLAN", "Subnetting", "DHCP", "Wireless Networking", "Inter-VLAN Routing", "IPv4", 'CCNA', 'Network Design'],
+        demoUrl: "https://github.com/Esoumri/Simple-Company--Networking-Project.git",
+        githubUrl: "https://github.com/Esoumri/Simple-Company--Networking-Project.git"
 
     },
-    {
-        id: 1,
-        title: "Smart beehive monitoring system",
-        description: "An IoT-based system for monitoring beehive conditions such as temperature, humidity, and bee flow to ensure optimal bee health and productivity.",
-        image: "/projects/pfe.png",
-        tags: ["c++", "ESP32 ESP-32S CH9102X", "fritzing", "Arduino IDE", "vs code", "next.js", "Neon", "Vercel", 'Tailwind CSS'],
-        demoUrl: "https://beemonitor.vercel.app/",
-        githubUrl: "https://github.com/Esoumri/bee-monitoring-project.git"
 
-    },
 
 ]
 
