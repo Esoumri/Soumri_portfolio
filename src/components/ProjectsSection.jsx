@@ -5,7 +5,7 @@ const projects = [
         id: 1,
         title: "Smart beehive monitoring system",
         description: "An IoT-based system for monitoring beehive conditions such as temperature, humidity, and bee flow to ensure optimal bee health and productivity.",
-        image: "/projects/wiring.png",
+        image: "/projects/wiring 1.png",
         tags: ["c++", "ESP32 ESP-32S CH9102X", "fritzing", "Arduino IDE", "vs code", "next.js", "Neon", "Vercel", 'Tailwind CSS'],
         demoUrl: "https://beemonitor.vercel.app/",
         githubUrl: "https://github.com/Esoumri/Smart_beehive.git"
