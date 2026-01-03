@@ -16,9 +16,19 @@ const projects = [
         title: "Simple Company Networking",
         description: "Designed a Cisco Packet Tracer branch network using VLANs, subnetting, wireless access, and DHCP to separate departments and enable inter-VLAN connectivity with automatic IPv4 addressing.",
         image: "/projects/project4.png",
-        tags: ["Cisco Packet Tracer", "Networking", "VLAN", "Subnetting", "DHCP", "Wireless Networking", "Inter-VLAN Routing", "IPv4", 'CCNA', 'Network Design'],
+        tags: ["Cisco Packet Tracer", "Networking", "VLAN", "Subnetting", "DHCP", "Wireless Networking", "Inter-VLAN Routing", "IPv4", 'Network Design'],
         demoUrl: "https://github.com/Esoumri/Simple-Company--Networking-Project.git",
         githubUrl: "https://github.com/Esoumri/Simple-Company--Networking-Project.git"
+
+    },
+    {
+        id: 3,
+        title: "Hotel Management Networking ",
+        description: "Designed a secure multi-floor enterprise network built in Cisco Packet Tracer with full inter-VLAN communication and routing.",
+        image: "/projects/project4.png",
+        tags: ["Cisco Packet Tracer", "Networking", "VLAN", "OSPF", "DHCP", "Wi-Fi", "nterprise Network", "Port Security", 'SSH', 'Network Design'],
+        demoUrl: "https://github.com/Esoumri/Hotel-Management-Networking-Project.git",
+        githubUrl: "https://github.com/Esoumri/Hotel-Management-Networking-Project.git"
 
     },
 
