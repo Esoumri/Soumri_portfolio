@@ -25,7 +25,7 @@ const projects = [
         id: 3,
         title: "Hotel Management Networking ",
         description: "Designed a secure multi-floor enterprise network built in Cisco Packet Tracer with full inter-VLAN communication and routing.",
-        image: "/projects/project4.png",
+        image: "/projects/project-5.png",
         tags: ["Cisco Packet Tracer", "Networking", "VLAN", "OSPF", "DHCP", "Wi-Fi", "nterprise Network", "Port Security", 'SSH', 'Network Design'],
         demoUrl: "https://github.com/Esoumri/Hotel-Management-Networking-Project.git",
         githubUrl: "https://github.com/Esoumri/Hotel-Management-Networking-Project.git"
